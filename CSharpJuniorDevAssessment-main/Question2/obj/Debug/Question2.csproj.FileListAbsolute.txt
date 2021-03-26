@@ -1,0 +1,7 @@
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\bin\Debug\Question2.exe.config
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\bin\Debug\Question2.exe
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\bin\Debug\Question2.pdb
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\obj\Debug\Question2.exe
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\obj\Debug\Question2.pdb
+C:\AzureDevOps\IS.CSharp.Assessment\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
