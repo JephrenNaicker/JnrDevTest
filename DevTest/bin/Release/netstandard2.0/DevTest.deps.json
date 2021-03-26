@@ -1,0 +1,113 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "DevTest/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "NUnit": "2.6.4",
+          "NUnitTestAdapter": "2.0.0",
+          "Question1": "1.0.0",
+          "Question2": "1.0.0"
+        },
+        "runtime": {
+          "DevTest.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "NUnit/2.6.4": {
+        "runtime": {
+          "lib/nunit.framework.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          }
+        }
+      },
+      "NUnitTestAdapter/2.0.0": {
+        "runtime": {
+          "lib/NUnit.VisualStudio.TestAdapter.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/nunit.core.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.core.interfaces.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          },
+          "lib/nunit.util.dll": {
+            "assemblyVersion": "2.6.4.14350",
+            "fileVersion": "2.6.4.14350"
+          }
+        }
+      },
+      "Question1/1.0.0": {
+        "runtime": {
+          "Question1.exe": {}
+        }
+      },
+      "Question2/1.0.0": {
+        "runtime": {
+          "Question2.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "NUnit/2.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cmSPvaCMRSP0DI19FP1Liw9DyJY3E/vOY1OrVaeJBZpZFWHkmT3fB9ngGWnZX/ftvA7zJEbghEaw3Yd+u4YFAw==",
+      "path": "nunit/2.6.4",
+      "hashPath": "nunit.2.6.4.nupkg.sha512"
+    },
+    "NUnitTestAdapter/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w0f2er8eVYVdJIssFrEgbQgTWdtNWGOlqd87/pdpYgxJW1ACQwL1h3vhsT4vwVAHPbZEZvaO56bbZhu+swX0jw==",
+      "path": "nunittestadapter/2.0.0",
+      "hashPath": "nunittestadapter.2.0.0.nupkg.sha512"
+    },
+    "Question1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Question2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
